@@ -1,0 +1,39 @@
+html, body {
+  background-color: #cccdce;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 34px;
+}
+.nav {
+  display: inline;
+  
+}
+.main {
+  background: url();
+  background-size: cover;
+}
+.header{
+  background-color: blue;
+  height: 6rem;
+  text-align: center;
+  
+}
+h1, h2 {
+  color: red;
+}
+.nav li {
+   
+  display: list-inline;
+  list-style-type: none;
+  font-size: 20px;
+}
+p{
+  color: red;
+}
+.banner {
+  background: url(http://www.imore.com/sites/imore.com/files/styles/large_wm_blw/public/field/image/2014/11/iphone_6_6_plus_lock_screen_wallpaper_hero.jpg);
+  background-size: cover;
+  height: 600px;
+  padding-top: 300px;
+} 
